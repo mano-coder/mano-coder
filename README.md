@@ -13,7 +13,7 @@
 </p>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=mano-coder&theme=dark&short_numbers=true&card_width=530)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mano-coder&theme=dark&short_numbers=true&card_width=800)](https://git.io/streak-stats)
 
 ------------
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
