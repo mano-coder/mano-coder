@@ -24,3 +24,6 @@
 
 - [Typing-speed-test](https://mano-coder.github.io/Typing-speed-test/)
 - [Results-Summary-Component](https://mano-coder.github.io/Results-Summary-Component/)
+- [Advice-Generator-App](https://mano-coder.github.io/Advice-Generator-App/)
+- [Browser-Extensions-Manager-UI](https://mano-coder.github.io/Browser-Extensions-Manager-UI/)
+
