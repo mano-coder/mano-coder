@@ -24,6 +24,11 @@
 - [My FreeCodeCamp Journey](https://github.com/mano-coder/freeCodeCamp-Projects)
 
 ---
+### Completed Scrimba React Course:
+
+- [My React Progress](https://github.com/mano-coder/Scrimba-React-Course)
+
+---
 ### Frontend Mentor Challenges:
 
 - [Typing-speed-test](https://mano-coder.github.io/Typing-speed-test/)
